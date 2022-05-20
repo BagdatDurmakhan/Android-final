@@ -7,7 +7,7 @@ An open-source Android COVID-19 tracking app built using core UI components from
 
 Download the app from [F-Droid](https://f-droid.org/packages/edu.stanford.rkpandey.covid19tracker/)
 
-**Author:** [Rahul Pandey](https://www.youtube.com/rpandey1234)
+**Author:** [Durmakhan Bagdat](https://www.youtube.com/rpandey1234)
 
 This app uses data from the [COVID tracking project](https://twitter.com/covid19tracking) as the data source. The app currently displays data for the US, including all the states and territories.
 
